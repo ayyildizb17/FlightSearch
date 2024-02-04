@@ -1,0 +1,11 @@
+departureDate,returnDate,price,departureAirport,arrivalAirport
+2022-02-10 00:00,2022-02-15 00:00,500.0,New York,London
+2022-03-20 00:00,2022-03-25 00:00,600.0,Los Angeles,Paris
+2022-04-15 00:00,2022-04-20 00:00,450.0,San Francisco,Amsterdam
+2022-05-01 00:00,2022-05-05 00:00,700.0,Dublin,Barcelona
+2022-06-12 00:00,2022-06-18 00:00,550.0,Chicago,Hong Kong
+2022-07-08 00:00,2022-07-15 00:00,800.0,Atlanta,Sydney
+2022-08-22 00:00,2022-08-30 00:00,600.0,Dallas,Seoul
+2022-09-10 00:00,2022-09-15 00:00,650.0,Singapore,Bangkok
+2022-10-05 00:00,2022-10-12 00:00,720.0,London,New York
+2022-11-18 00:00,2022-11-25 00:00,550.0,Tokyo,Los Angeles
